@@ -33,5 +33,7 @@ Sean Parent is a principal scientist and software architect for Adobe’s mobile
  - [STLab Github](https://github.com/stlab)
  - [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning)
  - [Inheritance Is The Base Class of Evil](http://channel9.msdn.com/Events/GoingNative/2013/Inheritance-Is-The-Base-Class-of-Evil)
+ - [HotDrink](https://github.com/HotDrink/hotdrink)
+ - [Property Models Research](https://parasol.tamu.edu/groups/pttlgroup/property-models/)
 
 ###Sponsors
